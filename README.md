@@ -132,5 +132,4 @@ A portfolio of production-grade services demonstrating deep systems integration,
 ### Contact & Links
 
 *   **GitHub**: [github.com/med2004x](https://github.com/med2004x)
-*   **Email**: [med@med2004x.com](mailto:med@med2004x.com)
-*   **LinkedIn**: [linkedin.com/in/med2004x](https://linkedin.com/in/med2004x)
+*   **Email**: mohamedelhammi99@gmail.com
